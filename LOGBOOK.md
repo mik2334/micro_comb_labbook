@@ -31,4 +31,7 @@ Short, dated summaries of each coding session. Full reasoning, calculations and 
 - Created public "micro-comb-labbook" repo; moved 'LOGBOOK.md' from code repo and added 'reading/' to the lab book repo
 - Confirmed code repo is private
 - Updated both READMEs; set up VS Code workspace with both repos.
-- Commits: code []
+- Commits: code [c96a628]
+
+## 08-10-2026 - READING: Suresh et al. 2026, Minimal observables for discriminating laser cavity solitons in a microresonator-filtered fibre laser
+- 
