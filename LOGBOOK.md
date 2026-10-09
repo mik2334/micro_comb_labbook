@@ -15,9 +15,6 @@ Short, dated summaries of each coding session. Full reasoning, calculations and 
 - Code commit: [6c468fb]
 
 ## 05-10-2026 - READING: Pasquazi et al. 2018, micro-combs review
-- Read: section 1 
-- Key concepts: Kerr ring cavities ; NLS vs Lugatio-Lefever equation (LLE = NLS + loss + detuning + pump); coherent vs incoherent comb states; temporal cavity solitons (solitary waves)
-- Questions: which states are in the dataset; which parameters were recorded 
 - Notes: 'reading/pasquazi2018_microcombs-review.md'
 - Lab book p. 7-8
 
@@ -34,4 +31,12 @@ Short, dated summaries of each coding session. Full reasoning, calculations and 
 - Commits: code [c96a628]
 
 ## 08-10-2026 - READING: Suresh et al. 2026, Minimal observables for discriminating laser cavity solitons in a microresonator-filtered fibre laser
-- 
+- Notes: 'reading/suresh2026_minimal-observables.md'
+- Lab book p. 10
+- Commit: same as 09-10-2026
+
+## 09-10-2026 - SESSION: Data test
+- downloaded mat73 Python library to upload MATLAB data into Python
+- Added code to upload and print data keys and values
+- test successful 
+- Commit code
